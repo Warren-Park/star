@@ -1,5 +1,5 @@
 # Star
-- Auxiliary data for 'Finding the possible positions of undiscovered stars by using a machine learning method'.
+## Auxiliary data for 'Finding the possible positions of undiscovered stars by using a machine learning method'.
 - .csv files have three columns. From the left, each column represents RA, Dec, and distance in pc from the sun respectively.
 - .fig files require MATLAB software installed to be opened.
 - Plotter application works automatically when you launch the app by using a python launcher, but requires MATLAB Python API package installed.
